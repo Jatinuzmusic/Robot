@@ -1,14 +1,14 @@
 {
-      "name": "𝄟ॐ❥𝗩𝗜𝗣🍷𝗥𝗢𝗕𝗢𝗧⏤͟͟͞❥͜͡𝄟⃟🥀",
+      "name": "𝄟ॐ❥𝙅𝘼𝙏𝙄𝙉 𝙓 𝙍𝙊𝘽𝙊𝙏⏤͟͟͞❥͜͡𝄟⃟🥀",
       "description": "𝐓𝐆 𝐆𝐑𝐎𝐔𝐏 𝐌𝐀𝐍𝐀𝐆𝐄𝐑 𝐑𝐎𝐁𝐎𝐓.",
-      "logo": "https://graph.org/file/d874fc40ddf9ead0cad6b.jpg",
+      "logo": "https://telegra.ph/file/2aba69b07b888ce0b30b0.jpg",
       "keywords": [
          "telegram",
          "modular",
          "group",
          "manager"
       ],   
-   "repository": "https://github.com/THE-VIP-BOY-OP/VIP-ROBOT",
+   "repository": "https://github.com/Jatinuzmusic/Robot",
    "stack": "heroku-22",
    "addons": [
       {
@@ -60,7 +60,7 @@
       "START_IMG": {
          "description": "Telegraph link of the image which will be shown at start command.",
          "required": true,
-         "value": "https://graph.org/file/d874fc40ddf9ead0cad6b.jpg"
+         "value": "https://telegra.ph/file/2aba69b07b888ce0b30b0.jpg"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit.",
